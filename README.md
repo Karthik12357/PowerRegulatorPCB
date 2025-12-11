@@ -1,1 +1,1 @@
-# FirstPCB-PowerRegulator
+# PowerRegulatorPCB
